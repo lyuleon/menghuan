@@ -1,2 +1,2 @@
-# menghuan
-梦幻游戏历程
+# Records of Leon & Brother B
+王俊和他表哥的故事
