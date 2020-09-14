@@ -1,0 +1,51 @@
+阿尔卡冯的宝库  80级大象 
+奥杜尔  达拉然80 尾王(CD宏)  达拉然传送
+风神王座  南风幼龙85  尾王 传送奥丹姆
+巨龙之魂  全本3坐骑85 英雄难度 传送时光之穴
+火焰之地  海加尔山85  老三(cd宏) 传送海加尔山
+
+LM猎人:
+雷电王座   90级普通	  	老2 和 老6
+魔古山宝库   90级普通	老5
+
+
+决战奥格	90级史诗	尾王
+黑石铸造厂	100级	史诗尾王
+地狱火堡垒	100级	史诗尾王
+
+奥丹姆 崇拜
+
+C++ technique oriented:
+Essential c++ (basic 300 pages)
+Accelarated c++ (basic 300 pages)
+Effective C++ (midium)
+Exceptional C++ 47 Engineering Puzzles (midium)
+More effective C++ (advanced)
+Effective STL - Meyers (advanced)
+Modern effective C++ (advanced)
+
+C++ reference:
+The C++ Programming Language (4th Edition) by Bjarne Stroustrup
+The C++ Standard Library: A Tutorial and Reference (2nd Edition) by Nicolai M. Josuttis
+C++ Templates: The Complete Guide by David Vandevoorde
+
+Threaded programming:
+C++ Concurrency in Action - Williams
+Linux多线程服务端编程 - 陈硕
+
+C++ Outlook:
+深入探索C++对象模型
+代码整洁之道
+
+
+
+
+
+
+
+
+
+
+
+
+
